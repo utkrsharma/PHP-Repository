@@ -4,7 +4,7 @@
 <title>Calculator</title>
 </head>
 <body>
-<form method="post" attribute="post">
+<form method="post" >
 <p>First Value:<br/>
 <input type="number" id="first" name="first"></p>
 <p>Second Value:<br/>
